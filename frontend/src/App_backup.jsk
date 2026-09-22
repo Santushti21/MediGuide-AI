@@ -1,0 +1,12 @@
+import "./App.css";
+
+function App() {
+  return (
+    <div>
+      <h1>MediGuide AI</h1>
+      <p>Website is working!</p>
+    </div>
+  );
+}
+
+export default App;
